@@ -7,6 +7,6 @@ Included in this repository is every version/ideration of the framework between 
 
 # Note before downloading
 The folder that is labled "HEDGEFUSIONREV0 Source + Executable" are the most current versions of the framework
-EVERYTHING ELSE is older, and I dont 100% do not recomend using them.
+EVERYTHING ELSE is older, and I 100% do not recomend using them.
 
 These all require Clickteam Fusion 2.5 and its "Plus" DLC.
